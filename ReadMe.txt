@@ -3,8 +3,8 @@ OPEATING SYSTEM PROJECT 2 - Modified Version of V6 Unix File System
 START DATE: 11/14/2013
 END DATE: 12/3/2013
 TEAM MEMBERS:2
-Pradeep Anatharaman(pxa130130)
-Harish Srinivasa(hxs134430)
+Pradeep Anatharaman
+Harish Srinivasa
 ===========================================================================================================
 PROBLEM AND OBJECTIVE:
 To redesign UNIX V6 file system to remove the 16 MB limitation 
